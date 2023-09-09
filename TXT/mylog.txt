@@ -11,3 +11,13 @@ ZCZC W00 93 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 3 L07 Demo related
 ZCZC W00 2 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
 ZCZC W00 91 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 15 L00 General, etc.
+ZCZC W00 20 L01 SCELE/Discord related
+ZCZC W01 104 L05 Quiz related including studying
+ZCZC W01 250 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 246 L09 Assignment in General
+ZCZC W01 5 L61 Install/Reinstall/Restore/Backup Virtual Box
+
+
+
