@@ -18,6 +18,12 @@ ZCZC W01 104 L05 Quiz related including studying
 ZCZC W01 250 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W01 246 L09 Assignment in General
 ZCZC W01 5 L61 Install/Reinstall/Restore/Backup Virtual Box
-
+ZCZC W02 15 L00 General, etc.
+ZCZC W02 20 L01 SCELE/Discord related
+ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 110 L05 Quiz related including studying
+ZCZC W02 110 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 16 L07 Demo related
+ZCZC W02 319 L09 Assignment in General
 
 
