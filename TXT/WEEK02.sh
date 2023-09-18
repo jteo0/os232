@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -Eo '/[[:digit:]]{10}/g' inputSCRAP.txt >>outputSCRAP.txt
+grep -Eo '[[:digit:]]{10}' inputSCRAP.txt >>outputSCRAP.txt
