@@ -25,5 +25,10 @@ ZCZC W02 110 L05 Quiz related including studying
 ZCZC W02 110 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W02 16 L07 Demo related
 ZCZC W02 319 L09 Assignment in General
-
-
+ZCZC W03 15 L00 General, etc.
+ZCZC W03 20 L01 SCELE/Discord related
+ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 137 L05 Quiz related including studying
+ZCZC W03 127 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 11 L07 Demo related
+ZCZC W03 133 L09 Assignment in General
