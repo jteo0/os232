@@ -1,8 +1,8 @@
 #!/bin/bash
 # Copyright (C) 2020-2023 Cicak Bin Kadal
 
-# This free document is distributed in the hope that it will be 
-# useful, but WITHOUT ANY WARRANTY; without even the implied 
+# This free document is distributed in the hope that it will be
+# useful, but WITHOUT ANY WARRANTY; without even the implied
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 # REV33: Mon 11 Sep 2023 17:00
@@ -16,7 +16,7 @@
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
 # ####################### Replace REC2 ####
-REC2="338BFFF9E1EB9F78"
+REC2="E3B6090977EBC9D0"
 # ####################### ####### #### ####
 # REC1: public key
 REC1="63FB12B215403B20"
@@ -47,7 +47,7 @@ fi
 
 if [ $DEFAULT ] ; then
   [[ $(wget $WEEKURL -O- 2>/dev/null) ]] || nolink $WEEKURL
-  intARR=($(wget -q -O - $WEEKURL | awk '/\| Week / { 
+  intARR=($(wget -q -O - $WEEKURL | awk '/\| Week / {
     cmd = "date -d " $2 " +%s"
     cmd | getline mydate
     close(cmd)
@@ -69,7 +69,7 @@ WEEK=$(printf "W%2.2d\n" $WEEK)
 # Is this the correct WEEK?
 read -r -p "Is this WEEK $WEEK ? [y/N] " response
 case "$response" in
-    [yY][eE][sS]|[yY]) 
+    [yY][eE][sS]|[yY])
         ;;
     *)
         echo "It is not Week $WEEK!"
