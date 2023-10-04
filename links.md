@@ -11,3 +11,5 @@ permalink: LINKS/
 [**Operating Systems - geeksforgeeks**](https://www.geeksforgeeks.org/operating-systems/)<br>A page that links to every OS-adjacent page on geeksforgeeks. They're written in order, so if you don't have any knowledge, you can check previous pages for more information.
 <p></p>
 [**Linux Commands Cheat Sheet**](https://phoenixnap.com/kb/linux-commands-cheat-sheet)<br> A page filled with linux commands. It's the most complete one I could find out of the pages I looked at.
+<p></p>
+[**Resources for learning C**](https://researchcomputing.princeton.edu/education/external-online-resources/cplusplus)<br> A page that lists resources with which one can learn C. There are books, web pages, and online courses.
