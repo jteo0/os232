@@ -13,3 +13,5 @@ permalink: LINKS/
 [**Linux Commands Cheat Sheet**](https://phoenixnap.com/kb/linux-commands-cheat-sheet)<br> A page filled with linux commands. It's the most complete one I could find out of the pages I looked at.
 <p></p>
 [**Resources for learning C**](https://researchcomputing.princeton.edu/education/external-online-resources/cplusplus)<br> A page that lists resources with which one can learn C. There are books, web pages, and online courses.
+<p></p>
+[**Linux Basics**](https://training.linuxfoundation.org/training/introduction-to-linux/)<br> A free course on the basics of linux, spanning about 60 hours. The site also has other courses, linux and otherwise, though some may cost money.
