@@ -38,3 +38,10 @@ ZCZC W04 300 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 206 L05 Quiz related including studying
 ZCZC W04 147 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 588 L09 Assignment in General
+ZCZC W05 15 L00 General, etc.
+ZCZC W05 20 L01 SCELE/Discord related
+ZCZC W05 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 68 L05 Quiz related including studying
+ZCZC W05 55 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 8 L07 Demo related
+ZCZC W05 192 L09 Assignment in General
