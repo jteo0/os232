@@ -15,3 +15,5 @@ permalink: LINKS/
 [**Resources for learning C**](https://researchcomputing.princeton.edu/education/external-online-resources/cplusplus)<br> A page that lists resources with which one can learn C. There are books, web pages, and online courses.
 <p></p>
 [**Linux Basics**](https://training.linuxfoundation.org/training/introduction-to-linux/)<br> A free course on the basics of linux, spanning about 60 hours. The site also has other courses, linux and otherwise, though some may cost money.
+<p></p>
+[**Openvim**](https://www.openvim.com/)<br> An interactive tutorial for vim. It's helpful for learning while doing.
