@@ -18,4 +18,4 @@ permalink: LINKS/
 <p></p>
 [**Openvim**](https://www.openvim.com/)<br> An interactive tutorial for vim. It's helpful for learning while doing.
 <p></p>
-[Quick and Dirty Guide to C](https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf) A short cheatsheet containing the basics of C. Helpful for making notes.
+[**Quick and Dirty Guide to C**](https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf) A short cheatsheet containing the basics of C. Helpful for making notes.
