@@ -23,3 +23,5 @@ permalink: LINKS/
 [**Linux From Scratch**](https://www.linuxfromscratch.org/) A helpful website that provides instructions and links to make linux from scratch. Helpful for making linux from scratch.
 <p></p>
 [**Linux/Unix Tutorial**](https://www.geeksforgeeks.org/linux-tutorial/) A page with links to various sources about linux and unix. It's ordered based on what you should know first, so its helpful for learning the basics.
+<p></p>
+[**Kernotex**](https://www.youtube.com/@Kernotex/featured) A creator on youtube who makes guides on linux. Most relevant to this is his playlist on building linux from scratch.
